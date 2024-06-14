@@ -36,6 +36,6 @@ For datasets larger than 10MB, please visit the link below to get the dataset.
 
 为了控制仓库的大小，对于大于10MB的数据集，请通过下面的链接来获取：
 
-* **Link**：https://pan.baidu.com/s/1LLqL5H6_uydDnML9fIywzg 
+* **链接**：https://pan.baidu.com/s/1LLqL5H6_uydDnML9fIywzg 
 
-* **extraction code**：ubss
+* **提取码**：ubss
