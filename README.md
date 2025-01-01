@@ -1,3 +1,6 @@
+# !!! 
+For more datasets, you can visit this more complete repository:https://github.com/JethroJames/Awesome-Multi-View-Learning-Datasets
+
 # Multi-view-Datasets
 This repository contains some of the multi-view datasets that are often used in our research. 
 
@@ -20,6 +23,8 @@ For datasets larger than 10MB, please visit the link below to get the dataset.
 
 
 
+# !!! 
+获取更多数据集，可以访问该更完备的仓库:https://github.com/JethroJames/Awesome-Multi-View-Learning-Datasets
 
 # 多视角数据集
 该资源库包含我们研究中经常使用的一些多视角数据集。它们是已经被预处理好的特征数据集，可以使用matlab或python读取。
